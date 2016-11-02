@@ -10,6 +10,10 @@ After a successful legal career that culminated in 4+ years as corporate counsel
 
 In addition to software development and the law, I am also interested in science and history.
 
+### CV
+
+You can download my CV [here]({{ site.url }}/images/DanEsreyResume.pdf).
+
 ### Contact me
 
 E: [dan.esrey@icloud.com](mailto:dan.esrey@icloud.com)
