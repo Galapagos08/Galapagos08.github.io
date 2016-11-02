@@ -12,4 +12,6 @@ In addition to software development and the law, I am also interested in science
 
 ### Contact me
 
-[dan.esrey@icloud.com](mailto:dan.esrey@icloud.com)
+E: [dan.esrey@icloud.com](mailto:dan.esrey@icloud.com)
+
+P: 404.216.6158
