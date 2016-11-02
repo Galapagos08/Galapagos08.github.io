@@ -10,7 +10,7 @@ Below are some projects I created. Please take a look and feel free to view the 
 
 Community is an invite-only social networking application deisgned for community organizations such as churches, civic organizations, and local job-networking groups.
 
-![Login screen](/images/Login-screen.png)
+![Login screen](/images/Login screen.png)
 
 ### Book List
 
