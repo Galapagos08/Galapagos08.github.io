@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+After a successful legal career that culminated in 4+ years as corporate counsel for a leading technoogy company, Manhattan Associates, Inc., I became a developer to bridge my creative and analytical skills with my love of technology!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In addition to software development and the law, I am also interested in science and history.
 
 ### Contact me
 
