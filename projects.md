@@ -1,17 +1,15 @@
 ---
 layout: page
-title: About
+title: Projects
 permalink: /projects/
 ---
 
-After a successful legal career that culminated in 4+ years as corporate counsel for a leading technoogy company, Manhattan Associates, Inc., I became a developer to bridge my creative and analytical skills with my love of technology!
+Below are some projects I created. Please take a look and feel free to view the code through the included links.
 
-### More Information
+### Community
 
-In addition to software development and the law, I am also interested in science and history.
+Community is an invite-only social networking application deisgned for community organizations such as churches, civic organizations, and local job-networking groups.
 
-### Contact me
+### Book List
 
-E: [dan.esrey@icloud.com](mailto:dan.esrey@icloud.com)
-
-P: 404.216.6158
+Book List is a simple application demonstrating use of web services. 
